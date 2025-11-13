@@ -257,4 +257,4 @@ included in our repository in the `COPYING` file.
 git clone https://github.com/<vanshmeena3113>/go-ethereum.git
 git checkout -b fix-typo-or-improvement
 git add .
-git commit -m "docs: fixed a small typo in README"
+git commit -m me: fixed a small typo in README"
